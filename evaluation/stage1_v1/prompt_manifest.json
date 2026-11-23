@@ -1,0 +1,18 @@
+{
+  "frozen": true,
+  "dev_count": 200,
+  "test_count": 100,
+  "test_author": "Kimi via approved read-only safe entry",
+  "test_author_task": "2026-11-21T11-53-44-098Z-kimi-2edd4fcc(partial66);2026-11-21T11-57-30-402Z-kimi-8f0909b3(complete34)",
+  "dev_author": "deterministic curated project script",
+  "decoding": {
+    "greedy": true,
+    "max_new_tokens": 96
+  },
+  "quality_target": {
+    "test_readable_relevant_main_instruction_rate_min": 0.6,
+    "severe_corruption_empty_repetition_rate_max": 0.05
+  },
+  "note": "Custom small-model diagnostics, not a standardized benchmark. Some development cases are correlated templates; category results and blind test grading must be separate. Test prompts are frozen before SFT and are never used to select hyperparameters in this stage.",
+  "prompts_sha256": "25de07450d3cb15167b9ffd9f3d6b48c43421843b56a8898f8f1980eb1e4b101"
+}

@@ -1,0 +1,101 @@
+{
+  "frozen": true,
+  "name": "natural_sft_v3",
+  "freeze_version": 2,
+  "supersedes": "freeze_v1/prompt_manifest.json",
+  "revision_note": "Enforce the existing single-line JSON requirement for natural-v3-dev-constraint-08.",
+  "dev_count": 100,
+  "test_count": 200,
+  "category_counts": {
+    "social": {
+      "dev": 10,
+      "test": 20
+    },
+    "emotion": {
+      "dev": 10,
+      "test": 20
+    },
+    "advice": {
+      "dev": 10,
+      "test": 20
+    },
+    "explain": {
+      "dev": 10,
+      "test": 20
+    },
+    "grounded": {
+      "dev": 10,
+      "test": 20
+    },
+    "clarify": {
+      "dev": 10,
+      "test": 20
+    },
+    "memory": {
+      "dev": 10,
+      "test": 20
+    },
+    "correction": {
+      "dev": 10,
+      "test": 20
+    },
+    "rewrite": {
+      "dev": 10,
+      "test": 20
+    },
+    "constraint": {
+      "dev": 10,
+      "test": 20
+    }
+  },
+  "machine_check_counts": {
+    "dev": 4,
+    "test": 11
+  },
+  "tokenizer": "data/stage1_v1/tokenizer.json",
+  "system": "你是一个中文助手。请简洁、诚实地回答问题。",
+  "chat_format": "tinychat.chat_format.encode_conversation(generation_prompt=True)",
+  "context_tokens": 512,
+  "max_prompt_tokens": 105,
+  "primary": {
+    "split": "test",
+    "strategy": "greedy",
+    "batch_size": 1,
+    "max_new_tokens": 96,
+    "runs_per_model": 1
+  },
+  "auxiliary_sampling": {
+    "split": "dev",
+    "strategy": "sample",
+    "batch_size": 1,
+    "max_new_tokens": 96,
+    "temperature": 0.8,
+    "top_p": 0.9,
+    "seed": 42,
+    "prompt_ids": [
+      "natural-v3-dev-social-02",
+      "natural-v3-dev-social-07",
+      "natural-v3-dev-emotion-03",
+      "natural-v3-dev-emotion-08",
+      "natural-v3-dev-advice-04",
+      "natural-v3-dev-advice-09",
+      "natural-v3-dev-explain-01",
+      "natural-v3-dev-explain-06",
+      "natural-v3-dev-grounded-02",
+      "natural-v3-dev-grounded-10",
+      "natural-v3-dev-clarify-03",
+      "natural-v3-dev-clarify-09",
+      "natural-v3-dev-memory-01",
+      "natural-v3-dev-memory-08",
+      "natural-v3-dev-correction-04",
+      "natural-v3-dev-correction-06",
+      "natural-v3-dev-rewrite-02",
+      "natural-v3-dev-rewrite-07",
+      "natural-v3-dev-constraint-01",
+      "natural-v3-dev-constraint-08"
+    ]
+  },
+  "prompts_sha256": "4118d5a542090cab3a287721e7904fc88cea66f530f29ea11e526499312c2d04",
+  "overlap_prompts": "prompts_for_overlap.jsonl",
+  "scoring_contract": "scoring_contract.txt"
+}

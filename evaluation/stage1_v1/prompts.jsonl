@@ -1,0 +1,300 @@
+{"id": "dev_001", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "第一次参加读书会有点紧张，怎样开场？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_002", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "周末想在家休息，请给两个简单活动。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_003", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "朋友帮我搬了书，帮我写一句感谢的话。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_004", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "今天任务太多，怎样先排出顺序？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_005", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "我想每天读十分钟书，给我一个容易坚持的方法。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_006", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "室友总忘记关灯，怎样礼貌提醒？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_007", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "我要向老师请教问题，第一句话怎么说？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_008", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "下午容易走神，给我两个不花钱的办法。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_009", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "邻居送来水果，写一句自然的感谢。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_010", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "朋友临时取消聚会，我有些失望，怎样回复？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_011", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "想把书桌收拾整齐，从哪里开始？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_012", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "我想学习做饭，怎样选第一道菜？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_013", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "明天要介绍自己，怎样开头比较自然？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_014", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "最近总拖到最后才交作业，给一个具体建议。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_015", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "我准备给朋友寄明信片，写一句问候。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_016", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "一周没运动了，怎样安排一次轻松的活动？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_017", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "给刚搬家的朋友写一句祝福。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_018", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "我想减少看手机的时间，先做哪一步？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_019", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "朋友考试前紧张，帮我写一句安慰。"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_020", "split": "dev", "category": "everyday_chat", "messages": [{"role": "user", "content": "午休只有半小时，怎样安排比较轻松？"}], "rubric": "中文自然、切题，给出简短可执行建议或符合场景的话，不捏造用户经历。", "expected": null}
+{"id": "dev_021", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "闰年的二月有多少天？"}], "rubric": "基本事实正确；参考答案：29（文字数字同样可接受）。", "expected": "29"}
+{"id": "dev_022", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "一天有多少小时？"}], "rubric": "基本事实正确；参考答案：24（文字数字同样可接受）。", "expected": "24"}
+{"id": "dev_023", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "太阳通常从哪个方向升起？"}], "rubric": "基本事实正确；参考答案：东（文字数字同样可接受）。", "expected": "东"}
+{"id": "dev_024", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "地球的天然卫星叫什么？"}], "rubric": "基本事实正确；参考答案：月球（文字数字同样可接受）。", "expected": "月球"}
+{"id": "dev_025", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "蜡烛燃烧需要空气中的哪种气体？"}], "rubric": "基本事实正确；参考答案：氧（文字数字同样可接受）。", "expected": "氧"}
+{"id": "dev_026", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "大熊猫主要吃哪种植物？"}], "rubric": "基本事实正确；参考答案：竹（文字数字同样可接受）。", "expected": "竹"}
+{"id": "dev_027", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "三角形有几条边？"}], "rubric": "基本事实正确；参考答案：3（文字数字同样可接受）。", "expected": "3"}
+{"id": "dev_028", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "正方形有几条边？"}], "rubric": "基本事实正确；参考答案：4（文字数字同样可接受）。", "expected": "4"}
+{"id": "dev_029", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "植物进行光合作用主要需要哪种光源？"}], "rubric": "基本事实正确；参考答案：太阳（文字数字同样可接受）。", "expected": "太阳"}
+{"id": "dev_030", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "一小时是多少分钟？"}], "rubric": "基本事实正确；参考答案：60（文字数字同样可接受）。", "expected": "60"}
+{"id": "dev_031", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "一米等于多少厘米？"}], "rubric": "基本事实正确；参考答案：100（文字数字同样可接受）。", "expected": "100"}
+{"id": "dev_032", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "红绿灯中，通常哪种颜色表示停止？"}], "rubric": "基本事实正确；参考答案：红（文字数字同样可接受）。", "expected": "红"}
+{"id": "dev_033", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "蜜蜂采集花蜜主要来自植物的哪个部分？"}], "rubric": "基本事实正确；参考答案：花（文字数字同样可接受）。", "expected": "花"}
+{"id": "dev_034", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "冰融化后变成什么？"}], "rubric": "基本事实正确；参考答案：水（文字数字同样可接受）。", "expected": "水"}
+{"id": "dev_035", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "人用什么器官听声音？"}], "rubric": "基本事实正确；参考答案：耳（文字数字同样可接受）。", "expected": "耳"}
+{"id": "dev_036", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "企鹅是鸟类还是鱼类？"}], "rubric": "基本事实正确；参考答案：鸟（文字数字同样可接受）。", "expected": "鸟"}
+{"id": "dev_037", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "地球是行星还是恒星？"}], "rubric": "基本事实正确；参考答案：行星（文字数字同样可接受）。", "expected": "行星"}
+{"id": "dev_038", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "长江最终流入哪个海？"}], "rubric": "基本事实正确；参考答案：东海（文字数字同样可接受）。", "expected": "东海"}
+{"id": "dev_039", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "汉字“木”一般有几画？"}], "rubric": "基本事实正确；参考答案：4（文字数字同样可接受）。", "expected": "4"}
+{"id": "dev_040", "split": "dev", "category": "factual_basic", "messages": [{"role": "user", "content": "四季中，春季后面是什么季节？"}], "rubric": "基本事实正确；参考答案：夏（文字数字同样可接受）。", "expected": "夏"}
+{"id": "dev_041", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 13 加 2，只写结果。"}], "rubric": "结果为15，不添加解释。", "expected": "15"}
+{"id": "dev_042", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 16 加 3，只写结果。"}], "rubric": "结果为19，不添加解释。", "expected": "19"}
+{"id": "dev_043", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 19 加 4，只写结果。"}], "rubric": "结果为23，不添加解释。", "expected": "23"}
+{"id": "dev_044", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 22 加 5，只写结果。"}], "rubric": "结果为27，不添加解释。", "expected": "27"}
+{"id": "dev_045", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 25 加 6，只写结果。"}], "rubric": "结果为31，不添加解释。", "expected": "31"}
+{"id": "dev_046", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 28 加 7，只写结果。"}], "rubric": "结果为35，不添加解释。", "expected": "35"}
+{"id": "dev_047", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 31 加 8，只写结果。"}], "rubric": "结果为39，不添加解释。", "expected": "39"}
+{"id": "dev_048", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 34 加 9，只写结果。"}], "rubric": "结果为43，不添加解释。", "expected": "43"}
+{"id": "dev_049", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 37 加 10，只写结果。"}], "rubric": "结果为47，不添加解释。", "expected": "47"}
+{"id": "dev_050", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 40 加 11，只写结果。"}], "rubric": "结果为51，不添加解释。", "expected": "51"}
+{"id": "dev_051", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 43 加 12，只写结果。"}], "rubric": "结果为55，不添加解释。", "expected": "55"}
+{"id": "dev_052", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 46 加 13，只写结果。"}], "rubric": "结果为59，不添加解释。", "expected": "59"}
+{"id": "dev_053", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 49 加 14，只写结果。"}], "rubric": "结果为63，不添加解释。", "expected": "63"}
+{"id": "dev_054", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 52 加 15，只写结果。"}], "rubric": "结果为67，不添加解释。", "expected": "67"}
+{"id": "dev_055", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 55 加 16，只写结果。"}], "rubric": "结果为71，不添加解释。", "expected": "71"}
+{"id": "dev_056", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 58 加 17，只写结果。"}], "rubric": "结果为75，不添加解释。", "expected": "75"}
+{"id": "dev_057", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 61 加 18，只写结果。"}], "rubric": "结果为79，不添加解释。", "expected": "79"}
+{"id": "dev_058", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 64 加 19，只写结果。"}], "rubric": "结果为83，不添加解释。", "expected": "83"}
+{"id": "dev_059", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 67 加 20，只写结果。"}], "rubric": "结果为87，不添加解释。", "expected": "87"}
+{"id": "dev_060", "split": "dev", "category": "arithmetic", "messages": [{"role": "user", "content": "请计算 70 加 21，只写结果。"}], "rubric": "结果为91，不添加解释。", "expected": "91"}
+{"id": "dev_061", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“苹果”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含苹果。", "expected": null}
+{"id": "dev_062", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“书包”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含书包。", "expected": null}
+{"id": "dev_063", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“桌子”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含桌子。", "expected": null}
+{"id": "dev_064", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“河流”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含河流。", "expected": null}
+{"id": "dev_065", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“月亮”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含月亮。", "expected": null}
+{"id": "dev_066", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“树叶”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含树叶。", "expected": null}
+{"id": "dev_067", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“铅笔”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含铅笔。", "expected": null}
+{"id": "dev_068", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“小路”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含小路。", "expected": null}
+{"id": "dev_069", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“海风”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含海风。", "expected": null}
+{"id": "dev_070", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“花园”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含花园。", "expected": null}
+{"id": "dev_071", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“茶杯”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含茶杯。", "expected": null}
+{"id": "dev_072", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“书店”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含书店。", "expected": null}
+{"id": "dev_073", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“星星”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含星星。", "expected": null}
+{"id": "dev_074", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“雨伞”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含雨伞。", "expected": null}
+{"id": "dev_075", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“公交车”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含公交车。", "expected": null}
+{"id": "dev_076", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“竹子”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含竹子。", "expected": null}
+{"id": "dev_077", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“纸船”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含纸船。", "expected": null}
+{"id": "dev_078", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“晨光”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含晨光。", "expected": null}
+{"id": "dev_079", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“窗户”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含窗户。", "expected": null}
+{"id": "dev_080", "split": "dev", "category": "instruction_format", "messages": [{"role": "user", "content": "请用“白云”造两个简短句子，分两行，每行以数字序号开头。"}], "rubric": "恰好两行有效句子，分别有数字序号，两句都包含白云。", "expected": null}
+{"id": "dev_081", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=苹果；编号=301；颜色=蓝色。请只回答编号。"}], "rubric": "只输出301。", "expected": "301"}
+{"id": "dev_082", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=书包；编号=302；颜色=蓝色。请只回答编号。"}], "rubric": "只输出302。", "expected": "302"}
+{"id": "dev_083", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=桌子；编号=303；颜色=蓝色。请只回答编号。"}], "rubric": "只输出303。", "expected": "303"}
+{"id": "dev_084", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=河流；编号=304；颜色=蓝色。请只回答编号。"}], "rubric": "只输出304。", "expected": "304"}
+{"id": "dev_085", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=月亮；编号=305；颜色=蓝色。请只回答编号。"}], "rubric": "只输出305。", "expected": "305"}
+{"id": "dev_086", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=树叶；编号=306；颜色=蓝色。请只回答编号。"}], "rubric": "只输出306。", "expected": "306"}
+{"id": "dev_087", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=铅笔；编号=307；颜色=蓝色。请只回答编号。"}], "rubric": "只输出307。", "expected": "307"}
+{"id": "dev_088", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=小路；编号=308；颜色=蓝色。请只回答编号。"}], "rubric": "只输出308。", "expected": "308"}
+{"id": "dev_089", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=海风；编号=309；颜色=蓝色。请只回答编号。"}], "rubric": "只输出309。", "expected": "309"}
+{"id": "dev_090", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=花园；编号=310；颜色=蓝色。请只回答编号。"}], "rubric": "只输出310。", "expected": "310"}
+{"id": "dev_091", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=茶杯；编号=311；颜色=蓝色。请只回答编号。"}], "rubric": "只输出311。", "expected": "311"}
+{"id": "dev_092", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=书店；编号=312；颜色=蓝色。请只回答编号。"}], "rubric": "只输出312。", "expected": "312"}
+{"id": "dev_093", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=星星；编号=313；颜色=蓝色。请只回答编号。"}], "rubric": "只输出313。", "expected": "313"}
+{"id": "dev_094", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=雨伞；编号=314；颜色=蓝色。请只回答编号。"}], "rubric": "只输出314。", "expected": "314"}
+{"id": "dev_095", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=公交车；编号=315；颜色=蓝色。请只回答编号。"}], "rubric": "只输出315。", "expected": "315"}
+{"id": "dev_096", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=竹子；编号=316；颜色=蓝色。请只回答编号。"}], "rubric": "只输出316。", "expected": "316"}
+{"id": "dev_097", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=纸船；编号=317；颜色=蓝色。请只回答编号。"}], "rubric": "只输出317。", "expected": "317"}
+{"id": "dev_098", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=晨光；编号=318；颜色=蓝色。请只回答编号。"}], "rubric": "只输出318。", "expected": "318"}
+{"id": "dev_099", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=窗户；编号=319；颜色=蓝色。请只回答编号。"}], "rubric": "只输出319。", "expected": "319"}
+{"id": "dev_100", "split": "dev", "category": "extraction", "messages": [{"role": "user", "content": "记录：物品=白云；编号=320；颜色=蓝色。请只回答编号。"}], "rubric": "只输出320。", "expected": "320"}
+{"id": "dev_101", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在图书馆整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在图书馆整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_102", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在公园整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在公园整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_103", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在学校整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在学校整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_104", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在社区整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在社区整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_105", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在书店整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在书店整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_106", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在广场整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在广场整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_107", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在教室整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在教室整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_108", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在小区整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在小区整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_109", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在河边整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在河边整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_110", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期六上午，志愿者在车站整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在车站整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_111", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在图书馆整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在图书馆整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_112", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在公园整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在公园整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_113", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在学校整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在学校整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_114", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在社区整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在社区整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_115", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在书店整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在书店整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_116", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在广场整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在广场整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_117", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在教室整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在教室整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_118", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在小区整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在小区整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_119", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在河边整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在河边整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_120", "split": "dev", "category": "summarization", "messages": [{"role": "user", "content": "用一句话概括：星期日上午，志愿者在车站整理图书。他们把旧书分类，方便大家借阅。活动在中午结束。"}], "rubric": "一句话包含志愿者在车站整理图书的主要事件，不添加原文没有的事实。", "expected": null}
+{"id": "dev_121", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：把窗户关上。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_122", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：给我借一下这本书。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_123", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：你快点回复。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_124", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：把音量调小。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_125", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：帮我看一下这段文字。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_126", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：给我一张纸。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_127", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：告诉我会议时间。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_128", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：你坐过去一点。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_129", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：把门打开。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_130", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：帮我把杯子递过来。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_131", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：你把这个地方打扫一下。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_132", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：给我讲一遍步骤。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_133", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：发我一下地址。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_134", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：把桌上的书收好。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_135", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：你别挡住通道。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_136", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：帮我确认一下名字。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_137", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：告诉我怎么走。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_138", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：把文件再发一遍。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_139", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：给我留一个座位。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_140", "split": "dev", "category": "rewriting", "messages": [{"role": "user", "content": "把下面这句话改得礼貌一些，保持原意：你等我两分钟。"}], "rubric": "保留原本请求，语气更礼貌、自然，不添加无关背景。", "expected": null}
+{"id": "dev_141", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有9张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_142", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有10张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_143", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有11张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_144", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有12张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_145", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有13张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_146", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有14张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_147", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有15张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_148", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有16张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_149", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有17张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_150", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有18张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_151", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有19张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_152", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有20张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_153", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有21张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_154", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有22张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_155", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有23张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_156", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有24张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_157", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有25张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_158", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有26张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_159", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有27张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_160", "split": "dev", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小林有28张卡片，小陈比小林多2张，小周比小陈少1张。谁的卡片最多？"}], "rubric": "回答小陈，比较关系正确。", "expected": "小陈"}
+{"id": "dev_161", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买苹果，预算是20元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品苹果和预算20元；不能只重复助手的话。", "expected": null}
+{"id": "dev_162", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买书包，预算是25元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品书包和预算25元；不能只重复助手的话。", "expected": null}
+{"id": "dev_163", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买桌子，预算是30元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品桌子和预算30元；不能只重复助手的话。", "expected": null}
+{"id": "dev_164", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买河流，预算是35元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品河流和预算35元；不能只重复助手的话。", "expected": null}
+{"id": "dev_165", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买月亮，预算是40元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品月亮和预算40元；不能只重复助手的话。", "expected": null}
+{"id": "dev_166", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买树叶，预算是45元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品树叶和预算45元；不能只重复助手的话。", "expected": null}
+{"id": "dev_167", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买铅笔，预算是50元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品铅笔和预算50元；不能只重复助手的话。", "expected": null}
+{"id": "dev_168", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买小路，预算是55元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品小路和预算55元；不能只重复助手的话。", "expected": null}
+{"id": "dev_169", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买海风，预算是60元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品海风和预算60元；不能只重复助手的话。", "expected": null}
+{"id": "dev_170", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买花园，预算是65元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品花园和预算65元；不能只重复助手的话。", "expected": null}
+{"id": "dev_171", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买茶杯，预算是70元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品茶杯和预算70元；不能只重复助手的话。", "expected": null}
+{"id": "dev_172", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买书店，预算是75元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品书店和预算75元；不能只重复助手的话。", "expected": null}
+{"id": "dev_173", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买星星，预算是80元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品星星和预算80元；不能只重复助手的话。", "expected": null}
+{"id": "dev_174", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买雨伞，预算是85元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品雨伞和预算85元；不能只重复助手的话。", "expected": null}
+{"id": "dev_175", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买公交车，预算是90元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品公交车和预算90元；不能只重复助手的话。", "expected": null}
+{"id": "dev_176", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买竹子，预算是95元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品竹子和预算95元；不能只重复助手的话。", "expected": null}
+{"id": "dev_177", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买纸船，预算是100元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品纸船和预算100元；不能只重复助手的话。", "expected": null}
+{"id": "dev_178", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买晨光，预算是105元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品晨光和预算105元；不能只重复助手的话。", "expected": null}
+{"id": "dev_179", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买窗户，预算是110元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品窗户和预算110元；不能只重复助手的话。", "expected": null}
+{"id": "dev_180", "split": "dev", "category": "multi_turn", "messages": [{"role": "user", "content": "我准备买白云，预算是115元。"}, {"role": "assistant", "content": "好的，我记住你的购买计划了。"}, {"role": "user", "content": "我刚才说要买什么，预算是多少？请简短回答。"}], "rubric": "记住物品白云和预算115元；不能只重复助手的话。", "expected": null}
+{"id": "dev_181", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我桌上现在放着几本书？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_182", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我明天那场面试几点开始？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_183", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我家门口现在下雨了吗？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_184", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "你知道我上周见了谁吗？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_185", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我现在穿的衣服是什么颜色？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_186", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我把钥匙放到哪里了？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_187", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "请告诉我今天楼下餐馆的菜单。"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_188", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我的快递现在到哪里了？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_189", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我手机剩余多少电量？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_190", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "我刚才没发出来的那条消息写了什么？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_191", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "他这样做是什么意思？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_192", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "帮我改一下。"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_193", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "那个地方好不好？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_194", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "这件事应该选哪个？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_195", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "明天适合出门吗？"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_196", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "按刚才的要求写，但我还没告诉你要求。"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_197", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "帮我安排一段行程，但我还没说目的地。"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_198", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "请评价这篇文章，但我还没有贴文章。"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_199", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "解释这张图片，但我没有发送图片。"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "dev_200", "split": "dev", "category": "uncertainty", "messages": [{"role": "user", "content": "请比较这两本书，但我没有给出书名。"}], "rubric": "明确缺少哪些信息或提出相关澄清问题，不编造看见的内容、实时数据或用户私密信息。", "expected": null}
+{"id": "test_001", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "早上好，给我一句简短的问候吧。"}], "rubric": "用中文给出简短、友好、自然的问候。", "expected": null}
+{"id": "test_002", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "我今天有点疲惫，能陪我说句轻松的话吗？"}], "rubric": "语气温和轻松，给予简短安慰，不讲大道理。", "expected": null}
+{"id": "test_003", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "周末想在家放松，你有什么简单建议？"}], "rubric": "给出两个容易实行的居家放松建议，语言简洁。", "expected": null}
+{"id": "test_004", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "帮我给朋友的生日聚会写一句轻松的开场白。"}], "rubric": "只写一句适合生日聚会的轻松开场白。", "expected": null}
+{"id": "test_005", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "我刚学会做番茄炒蛋，想跟你分享一下。"}], "rubric": "自然回应分享，表达祝贺或兴趣，可提一个简短问题。", "expected": null}
+{"id": "test_006", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "明天要去新的兴趣班，我有点紧张，能鼓励我一下吗？"}], "rubric": "给予简短真诚的鼓励，不贬低紧张情绪。", "expected": null}
+{"id": "test_007", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "给忙碌的晚上推荐一个十分钟的放松活动。"}], "rubric": "只推荐一个约十分钟、简单安全的活动，并简述做法。", "expected": null}
+{"id": "test_008", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "如果窗外下雨，宅家可以做什么有趣的事？给两个建议。"}], "rubric": "恰好给出两个适合雨天在家的活动，内容不同。", "expected": null}
+{"id": "test_009", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "跟我聊聊养一盆绿植的乐趣吧，两三句即可。"}], "rubric": "用两三句中文谈养绿植的乐趣，语气自然。", "expected": null}
+{"id": "test_010", "split": "test", "category": "everyday_chat", "messages": [{"role": "user", "content": "用一句温暖的话结束今天的聊天。"}], "rubric": "只输出一句温暖、自然的结束语。", "expected": null}
+{"id": "test_011", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "水的化学式是什么？"}], "rubric": "答出H₂O，不需展开。", "expected": "H₂O"}
+{"id": "test_012", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "地球围绕哪颗恒星公转？"}], "rubric": "答案必须是太阳。", "expected": "太阳"}
+{"id": "test_013", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "一年通常有多少个月？"}], "rubric": "答案必须是12个月。", "expected": "12个月"}
+{"id": "test_014", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "中国的首都是哪座城市？"}], "rubric": "答案必须是北京。", "expected": "北京"}
+{"id": "test_015", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "人体用来呼吸的主要器官是什么？"}], "rubric": "答出肺或肺部即可。", "expected": "肺"}
+{"id": "test_016", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "汉字“山”共有几画？"}], "rubric": "答案必须是3画。", "expected": "3画"}
+{"id": "test_017", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "一周有几天？"}], "rubric": "答案必须是7天。", "expected": "7天"}
+{"id": "test_018", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "太阳系中离太阳最近的行星是哪颗？"}], "rubric": "答案必须是水星。", "expected": "水星"}
+{"id": "test_019", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "冰在标准大气压下的熔点是多少摄氏度？"}], "rubric": "答案必须是0摄氏度。", "expected": "0摄氏度"}
+{"id": "test_020", "split": "test", "category": "factual_basic", "messages": [{"role": "user", "content": "英语字母表共有多少个字母？"}], "rubric": "答案必须是26个。", "expected": "26个"}
+{"id": "test_021", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "17加25等于多少？"}], "rubric": "计算结果必须为42，可简述计算。", "expected": "42"}
+{"id": "test_022", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "63减28等于多少？"}], "rubric": "计算结果必须为35。", "expected": "35"}
+{"id": "test_023", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "7乘8等于多少？"}], "rubric": "计算结果必须为56。", "expected": "56"}
+{"id": "test_024", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "84除以7等于多少？"}], "rubric": "计算结果必须为12。", "expected": "12"}
+{"id": "test_025", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "3.5加2.25等于多少？"}], "rubric": "计算结果必须为5.75。", "expected": "5.75"}
+{"id": "test_026", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "一本书12元，买3本一共需要多少元？"}], "rubric": "用12乘3，答案必须为36元。", "expected": "36元"}
+{"id": "test_027", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "24个苹果平均分给6个人，每人分到几个？"}], "rubric": "用24除以6，答案必须为4个。", "expected": "4个"}
+{"id": "test_028", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "一个长方形长8厘米、宽5厘米，面积是多少？"}], "rubric": "面积计算正确，答案必须为40平方厘米。", "expected": "40平方厘米"}
+{"id": "test_029", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "2小时15分钟等于多少分钟？"}], "rubric": "换算正确，答案必须为135分钟。", "expected": "135分钟"}
+{"id": "test_030", "split": "test", "category": "arithmetic", "messages": [{"role": "user", "content": "数列2、4、6、8的下一个数是什么？"}], "rubric": "识别每次加2，答案必须为10。", "expected": "10"}
+{"id": "test_031", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "只输出“学习愉快”，不要添加任何其他文字。"}], "rubric": "输出与指定短语完全一致，无额外内容。", "expected": "学习愉快"}
+{"id": "test_032", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "将“苹果、香蕉、橙子”改为每行一个，不加序号或其他文字。"}], "rubric": "依次输出苹果、香蕉、橙子，各占一行，无额外字符。", "expected": "苹果\n香蕉\n橙子"}
+{"id": "test_033", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "用恰好三个汉字回答：我们今天要做什么？"}], "rubric": "答案恰好三个汉字，语义自然，无标点或额外文字。", "expected": null}
+{"id": "test_034", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "把“小猫在睡觉。”改成疑问句，只输出改写结果。"}], "rubric": "改成保留原意的疑问句，无额外说明。", "expected": null}
+{"id": "test_035", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "输出一个JSON对象，键为weather，值为“晴天”，不要输出其他内容。"}], "rubric": "输出合法JSON，仅含weather键且值为晴天。", "expected": "{\"weather\":\"晴天\"}"}
+{"id": "test_036", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "用中文列出两种水果，用顿号分隔，不要其他文字。"}], "rubric": "恰好列出两种水果，以顿号分隔，无额外内容。", "expected": null}
+{"id": "test_037", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "将“今天天气很好”逐字倒序，只输出结果。"}], "rubric": "逐字倒序正确，无空格或额外说明。", "expected": "好很气天天今"}
+{"id": "test_038", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "把数字“305”按逐位读法写成中文小写数字，只输出结果。"}], "rubric": "按3、0、5逐位写成三零五，无额外文字。", "expected": "三零五"}
+{"id": "test_039", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "只输出一个以“风”开头的四字词语。"}], "rubric": "输出一个以风开头的四字词语，无其他内容。", "expected": null}
+{"id": "test_040", "split": "test", "category": "instruction_format", "messages": [{"role": "user", "content": "请用以下模板填空，只输出一行：姓名：小林；爱好：阅读"}], "rubric": "完整保留模板和标点，内容准确且只有一行。", "expected": "姓名：小林；爱好：阅读"}
+{"id": "test_041", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“王芳周三在图书馆借了两本科普书。”借书人是谁？"}], "rubric": "从文本提取借书人，答案必须为王芳。", "expected": "王芳"}
+{"id": "test_042", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“列车G102次将于14:35从南京南站出发。”出发时间是几点？"}], "rubric": "准确提取14:35，不提取其他信息。", "expected": "14:35"}
+{"id": "test_043", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“活动原定周五举行，因场地检修改到周六上午。”活动改到什么时候？"}], "rubric": "答案必须是周六上午，不能答原定的周五。", "expected": "周六上午"}
+{"id": "test_044", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“订单包含3个蓝色文件夹和1盒黑色签字笔。”蓝色文件夹有多少个？"}], "rubric": "准确提取蓝色文件夹数量3个。", "expected": "3个"}
+{"id": "test_045", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“李明把钥匙放在门口鞋柜的第二个抽屉里。”钥匙在哪里？"}], "rubric": "完整提取位置：门口鞋柜的第二个抽屉里。", "expected": "门口鞋柜的第二个抽屉里"}
+{"id": "test_046", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“本次读书会的主讲人是赵宁，主题是海洋保护。”读书会的主题是什么？"}], "rubric": "答案必须是海洋保护。", "expected": "海洋保护"}
+{"id": "test_047", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“报名表提交截止日期为9月18日，费用为每人20元。”每人的费用是多少？"}], "rubric": "答案必须是20元，不混淆截止日期。", "expected": "20元"}
+{"id": "test_048", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“会议地点由一楼报告厅改为三楼会议室。”新的会议地点在哪里？"}], "rubric": "答案必须是三楼会议室。", "expected": "三楼会议室"}
+{"id": "test_049", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“纸箱上写着：收件人陈晨，编号A-17。”纸箱的编号是什么？"}], "rubric": "准确提取编号A-17。", "expected": "A-17"}
+{"id": "test_050", "split": "test", "category": "extraction", "messages": [{"role": "user", "content": "文本：“菜单中，番茄汤12元，青菜面15元，米饭2元。”青菜面多少钱？"}], "rubric": "答案必须是15元，不混淆其他菜品。", "expected": "15元"}
+{"id": "test_051", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请用一句话概括：周六上午，社区志愿者在中心花园清理落叶，并为新栽的树苗浇水。共有二十人参加。"}], "rubric": "一句话包含志愿者清理落叶和给树苗浇水，不添加信息。", "expected": null}
+{"id": "test_052", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请在30字内概括：图书馆通知，自本月起，每周三闭馆时间由晚上八点延长至九点，其余开放安排不变。"}], "rubric": "不超过30字，准确说明周三闭馆延至晚上九点。", "expected": null}
+{"id": "test_053", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请用一句话概括：清晨下了一场小雨，街道有些湿滑。午后雨停，云层散开，气温也逐渐回升。"}], "rubric": "一句话概括清晨小雨、午后转晴回暖，不遗漏时间变化。", "expected": null}
+{"id": "test_054", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请概括主要步骤：使用共享雨伞前，先扫描二维码，再确认借出；归还时，将雨伞擦干并放回原处。"}], "rubric": "保留扫码借出以及擦干归还原处两个核心步骤。", "expected": null}
+{"id": "test_055", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请用一句话概括：小宇练习骑车时摔了几次，但没有放弃。他请爸爸帮忙扶稳车身，反复练习后终于能独立骑行。"}], "rubric": "一句话体现小宇坚持练习并最终学会独立骑车。", "expected": null}
+{"id": "test_056", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请在35字内概括：原定周日举行的班级足球赛因场地积水延期，新的比赛时间为下周三下午，参赛名单不变。"}], "rubric": "不超过35字，说明比赛延期至下周三下午且名单不变。", "expected": null}
+{"id": "test_057", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请用一句话概括：学校在新教学楼旁开辟了阅读角，摆放了故事书和科普书，学生可以在午休时自由借阅。"}], "rubric": "概括阅读角的位置、书籍及午休借阅用途，不添加信息。", "expected": null}
+{"id": "test_058", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请概括：陈阿姨在阳台种了薄荷和罗勒。她每天检查土壤，按需浇水，还经常用长出的叶子给家人做菜。"}], "rubric": "准确概括阳台种香草、照料并用于做菜三个要点。", "expected": null}
+{"id": "test_059", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请在30字内概括：为方便居民夜间出行，这条路新增了六盏路灯，并重新绘制了模糊的人行横道线。"}], "rubric": "不超过30字，包含新增路灯和重画人行横道线。", "expected": null}
+{"id": "test_060", "split": "test", "category": "summarization", "messages": [{"role": "user", "content": "请用一句话概括：小组先观察了三种叶片的形状，再记录它们的颜色和大小，最后把结果整理成一张对比表。"}], "rubric": "按顺序概括观察、记录和制作对比表，语言简洁。", "expected": null}
+{"id": "test_061", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“把门关上。”改得更礼貌，只输出改写后的句子。"}], "rubric": "保留关门请求，语气礼貌，无额外说明。", "expected": null}
+{"id": "test_062", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“由于今天外面的天气非常寒冷，所以我决定不出去散步了。”改得更简洁。"}], "rubric": "保留因天冷而取消散步的意思，表达更简洁。", "expected": null}
+{"id": "test_063", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“这事儿咱们明天再合计合计。”改成书面表达。"}], "rubric": "改为自然书面语，保留明天再讨论此事的意思。", "expected": null}
+{"id": "test_064", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“请于周五前提交报名表。”改得亲切一些。"}], "rubric": "保留周五前提交报名表的要求，语气亲切自然。", "expected": null}
+{"id": "test_065", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“风吹落了树叶。”改成被动句。"}], "rubric": "改成以树叶为受事的被动句，原意不变。", "expected": null}
+{"id": "test_066", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“植物利用阳光制造养分的过程叫光合作用。”改写成小学生容易理解的一句话。"}], "rubric": "用简单语言保留核心含义，适合小学生理解。", "expected": null}
+{"id": "test_067", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“我今晚想在家做饭”改得更正式一些。"}], "rubric": "语气正式，原意不变", "expected": null}
+{"id": "test_068", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "将“雨太大了，咱们别出门了”缩成一句简短的话。"}], "rubric": "表达简洁，保留雨大和不外出", "expected": null}
+{"id": "test_069", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“这本书我看完了，挺有意思”改成向朋友推荐的语气。"}], "rubric": "体现推荐，语气自然", "expected": null}
+{"id": "test_070", "split": "test", "category": "rewriting", "messages": [{"role": "user", "content": "把“请记得带上钥匙”改成更温柔的提醒。"}], "rubric": "语气温和，保留带钥匙的要求", "expected": null}
+{"id": "test_071", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小明有3个苹果，又买了2个，现在有几个？"}], "rubric": "计算正确，回答简短", "expected": "5个。"}
+{"id": "test_072", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "一支笔2元，买4支需要多少钱？"}], "rubric": "乘法正确，单位清楚", "expected": "8元。"}
+{"id": "test_073", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "甲跑完用了10分钟，乙用了12分钟，谁更快？"}], "rubric": "理解用时短者更快", "expected": "甲更快。"}
+{"id": "test_074", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "按从短到长排列：筷子、跳绳、铅笔。"}], "rubric": "比较日常物品长度，顺序合理", "expected": "铅笔、筷子、跳绳。"}
+{"id": "test_075", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "盒中有6颗糖，拿走1颗后又放回3颗，现在有几颗？"}], "rubric": "按顺序计算正确", "expected": "8颗。"}
+{"id": "test_076", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "会议9点开始，持续半小时，几点结束？"}], "rubric": "时间推算正确", "expected": "9点30分。"}
+{"id": "test_077", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "外面正在下大雨，出门带伞还是带太阳镜更合适？"}], "rubric": "根据天气作出合理选择", "expected": "带伞更合适。"}
+{"id": "test_078", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "小红排在第3位，她前面有几个人？"}], "rubric": "理解名次与前面人数关系", "expected": "2个人。"}
+{"id": "test_079", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "冰放在温暖的房间里，过一会儿通常会变成什么？"}], "rubric": "常识正确，回答简洁", "expected": "水。"}
+{"id": "test_080", "split": "test", "category": "simple_reasoning", "messages": [{"role": "user", "content": "一本书有20页，上午读了8页，下午读了7页，还剩几页？"}], "rubric": "减法正确，保留单位", "expected": "还剩5页。"}
+{"id": "test_081", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "我从杭州出发，准备去南京。"}, {"role": "assistant", "content": "好的，行程涉及两个城市。"}, {"role": "user", "content": "我刚才提到了哪两个城市？"}], "rubric": "结合前文完整列出城市", "expected": null}
+{"id": "test_082", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "桌上有红笔和蓝笔。"}, {"role": "assistant", "content": "你想用哪一支？"}, {"role": "user", "content": "用红笔。另一支是什么颜色？"}], "rubric": "依据前文识别另一支笔", "expected": null}
+{"id": "test_083", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "我周日上午有空。"}, {"role": "assistant", "content": "你想安排什么活动？"}, {"role": "user", "content": "去图书馆。我打算什么时候去哪里？"}], "rubric": "整合时间与地点作答", "expected": null}
+{"id": "test_084", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "盒子里有5颗糖。"}, {"role": "assistant", "content": "数量有变化吗？"}, {"role": "user", "content": "又放进2颗，现在有几颗？"}], "rubric": "利用初始数量计算", "expected": null}
+{"id": "test_085", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "请把活动命名为春日读书会。"}, {"role": "assistant", "content": "地点定了吗？"}, {"role": "user", "content": "定在教室。活动名称是什么？"}], "rubric": "从首轮提取活动名称", "expected": null}
+{"id": "test_086", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "我需要买牛奶和鸡蛋。"}, {"role": "assistant", "content": "还需要蔬菜吗？"}, {"role": "user", "content": "不用。购物清单里有哪两样？"}], "rubric": "保留原始清单，不添加蔬菜", "expected": null}
+{"id": "test_087", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "聚会先来了8个人。"}, {"role": "assistant", "content": "还有人要来吗？"}, {"role": "user", "content": "又来了2个人，现在共有几人？"}], "rubric": "结合两轮人数计算", "expected": null}
+{"id": "test_088", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "我的伞是蓝色的。"}, {"role": "assistant", "content": "需要我帮你找它吗？"}, {"role": "user", "content": "不用。我的伞是什么颜色？"}], "rubric": "准确回忆前文颜色", "expected": null}
+{"id": "test_089", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "公交车8点发车，路程需要20分钟。"}, {"role": "assistant", "content": "好的，请按时到站。"}, {"role": "user", "content": "按原计划几点能到？"}], "rubric": "利用前文发车时间与路程", "expected": null}
+{"id": "test_090", "split": "test", "category": "multi_turn", "messages": [{"role": "user", "content": "篮子里有4个橘子。"}, {"role": "assistant", "content": "要分给大家吗？"}, {"role": "user", "content": "我吃掉1个，还剩几个？"}], "rubric": "结合初始数量作答", "expected": null}
+{"id": "test_091", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "我今天的心情怎么样？"}], "rubric": "承认无法获知并询问", "expected": null}
+{"id": "test_092", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "我昨晚几点睡的？"}], "rubric": "不猜测个人未提供的信息", "expected": null}
+{"id": "test_093", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "我家的猫现在在哪里？"}], "rubric": "承认缺少实时信息", "expected": null}
+{"id": "test_094", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "他明天会带什么礼物？这里“他”指谁你知道吗？"}], "rubric": "指出指代和礼物信息均不足", "expected": null}
+{"id": "test_095", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "这次活动几点开始？"}], "rubric": "缺少活动信息时请求澄清", "expected": null}
+{"id": "test_096", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "我口袋里有几枚硬币？"}], "rubric": "不编造私人当前信息", "expected": null}
+{"id": "test_097", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "我的邻居此刻在家吗？"}], "rubric": "承认无法确认实时情况", "expected": null}
+{"id": "test_098", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "那本书的最后一页写了什么？"}], "rubric": "要求提供书名或文本", "expected": null}
+{"id": "test_099", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "我的朋友喜欢这个颜色吗？"}], "rubric": "指出人物和颜色信息不足", "expected": null}
+{"id": "test_100", "split": "test", "category": "uncertainty", "messages": [{"role": "user", "content": "我刚才删掉的那句话是什么？"}], "rubric": "承认无法访问已删除内容", "expected": null}

@@ -1,0 +1,54 @@
+{
+  "experiment": "500m-pretraining-pilot",
+  "status": "completed",
+  "evaluation": {
+    "loss": "masked_causal_lm_loss",
+    "masked_outputs": "unused control tokens",
+    "general_targets_per_arm": 1000000,
+    "mixed_targets_per_arm": 144827
+  },
+  "selection": {
+    "rule": "minimum mixed loss within 0.10 general; within 0.02 mixed tie prefer lower LR then scaled",
+    "lr": 0.0006,
+    "residual_init": "scaled"
+  },
+  "arms": [
+    {
+      "lr": 0.0006,
+      "residual_init": "original",
+      "checkpoint_step": 153,
+      "tokens": 5013504,
+      "general_loss": 7.674486,
+      "mixed_loss": 7.121236457980902
+    },
+    {
+      "lr": 0.0006,
+      "residual_init": "scaled",
+      "checkpoint_step": 153,
+      "tokens": 5013504,
+      "general_loss": 7.5304645,
+      "mixed_loss": 6.942392906709384
+    },
+    {
+      "lr": 0.001,
+      "residual_init": "original",
+      "checkpoint_step": 153,
+      "tokens": 5013504,
+      "general_loss": 7.705627,
+      "mixed_loss": 7.148533681564902
+    },
+    {
+      "lr": 0.001,
+      "residual_init": "scaled",
+      "checkpoint_step": 153,
+      "tokens": 5013504,
+      "general_loss": 7.5435955,
+      "mixed_loss": 6.947343209484419
+    }
+  ],
+  "limitations": [
+    "Each arm reports 5,013,504 committed target tokens. Uncommitted work from interrupted execution is excluded.",
+    "This pilot selects a recipe for the 500M run; it does not establish final model quality.",
+    "Masked pilot loss is not directly comparable with historical full-vocabulary perplexity."
+  ]
+}
